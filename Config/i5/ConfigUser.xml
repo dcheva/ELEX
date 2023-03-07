@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<options>
+	<Game>
+		<Autodetection
+			DetectionDone="true"
+		>
+		</Autodetection>
+	</Game>
+	<Engine>
+		<Graphics>
+			<Mixer
+				Gamma="1.000000"
+			>
+			</Mixer>
+		</Graphics>
+		<Render>
+			<Fog
+				Quality="High"
+			>
+			</Fog>
+			<Shadows
+				Quality="High"
+			>
+			</Shadows>
+		</Render>
+		<Scene
+			ViewRangeQuality="High"
+		>
+		</Scene>
+	</Engine>
+</options>

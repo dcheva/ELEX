@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<options>
+	<Application
+		Width="1920"
+		Height="1080"
+		Output="0"
+		VSync="false"
+		WindowMode="2"
+		>
+		<RefreshRate
+			Numerator="60"
+			Denominator="1"
+		>
+		</RefreshRate>
+	</Application>
+</options>
